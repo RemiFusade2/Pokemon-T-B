@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f6b316e045c900a48950e735840f6af5
+timeCreated: 1514538196
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: uni 05_64
+  fontNames:
+  - uni 05_64
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
